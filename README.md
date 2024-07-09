@@ -70,8 +70,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/meefr/meefr/output/snake.svg" alt="Snake animation" />
 
 ###
