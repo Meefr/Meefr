@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/37bc0011-2547-47e8-9c2d-3f84f589e015)<h2 align="left">I'm Mohamed Essam Elramah, Frontend Developer from Egypt</h2>
+<h2 align="left">I'm Mohamed Essam Elramah, Frontend Developer from Egypt</h2>
 
 ###
 
