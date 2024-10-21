@@ -1,4 +1,4 @@
-<h2 align="left">I'm Mohamed Essam Elramah, Frontend Developer from Egypt</h2>
+![image](https://github.com/user-attachments/assets/37bc0011-2547-47e8-9c2d-3f84f589e015)<h2 align="left">I'm Mohamed Essam Elramah, Frontend Developer from Egypt</h2>
 
 ###
 
@@ -49,6 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" height="30" alt="scala logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" height="30" alt="scala logo"  />
 </div>
 
 ###
