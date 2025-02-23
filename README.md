@@ -1,4 +1,4 @@
-<h2 align="left">I'm Mohamed Essam Elramah, Frontend Developer from Egypt</h2>
+<h2 align="left">I'm Mohamed Essam Elramah, Full-Stack Developer [MERN Stack] from Egypt</h2>
 
 ###
 
