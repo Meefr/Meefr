@@ -1,4 +1,9 @@
-<h2 align="left">I'm Mohamed Essam Elramah, Full-Stack Developer [MERN Stack] from Egypt</h2>
+<h2 align="left">I'm Mohamed Essam Elramah, Full-Stack Developer </h2>
+<p>Backend-focused Software Engineer with full-stack experience building scalable systems using modern
+frameworks. Experienced in system design and architecture, RESTful APIs, and database modeling, with exposure
+to AI/LLM integrations. Strong problem-solving background, competition winner, and an adaptable, fast learner
+who actively mentors and shares knowledge.</p>
+<hr/>
 
 ###
 
