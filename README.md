@@ -2,23 +2,44 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meefr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meefr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center" style="margin-bottom: 10px;">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=Meefr&theme=tokyonight" 
+          alt="mystreak"
+        />
+      </td>
+      <td align="center">
+        <img 
+          height="150"
+          src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZrc3ZyeWExamtraHpxcjQ4NHFzbThkY3pnbjc4bXRuNTZkcWNoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MKSMnH8e8S6QlY32e6/giphy.gif"
+          alt="gif"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZrc3ZyeWExamtraHpxcjQ4NHFzbThkY3pnbjc4bXRuNTZkcWNoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MKSMnH8e8S6QlY32e6/giphy.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" height="30" alt="NextJS logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" height="30" alt="NestJS logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" height="30" alt="ExpressJs logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" height="30" alt="PostgreSQL logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -57,7 +78,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/channel/UCXm76Qm81aE9msUeJof-5dg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
